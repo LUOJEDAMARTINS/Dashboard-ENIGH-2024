@@ -60,7 +60,7 @@ Os valores dos cards de 2024 foram comparados com a apresentação oficial do IN
 Os valores estão em pesos constantes de 2024. Os dados foram transcritos da apresentação (PDF) e não de microdados.
 
 ## Como rodar
-
+Descompactar node_modules.zip.
 Requer Node.js 18 ou mais novo.
 
 ```bash
@@ -70,6 +70,7 @@ npm run build    # gera a pasta dist/
 ```
 
 Não há variáveis de ambiente nem chaves de API.
+
 
 
 
